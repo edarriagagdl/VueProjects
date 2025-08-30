@@ -1,0 +1,10 @@
+<template>
+  <h1>Página de Inicio</h1>
+</template>
+
+<script setup>
+</script>
+
+<style scoped>
+</style>
+
